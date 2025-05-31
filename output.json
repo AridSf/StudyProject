@@ -1,0 +1,2204 @@
+[
+    {
+        "date": "2025-05-29",
+        "humidity": 60,
+        "wind_speed": 8.6,
+        "temperature": 20.0
+    },
+    {
+        "date": "2025-05-28",
+        "humidity": 61,
+        "wind_speed": 14.0,
+        "temperature": 18.4
+    },
+    {
+        "date": "2025-05-27",
+        "humidity": 60,
+        "wind_speed": 17.6,
+        "temperature": 16.5
+    },
+    {
+        "date": "2025-05-26",
+        "humidity": 55,
+        "wind_speed": 13.7,
+        "temperature": 14.7
+    },
+    {
+        "date": "2025-05-25",
+        "humidity": 51,
+        "wind_speed": 10.1,
+        "temperature": 11.6
+    },
+    {
+        "date": "2025-05-24",
+        "humidity": 61,
+        "wind_speed": 18.4,
+        "temperature": 11.4
+    },
+    {
+        "date": "2025-05-23",
+        "humidity": 63,
+        "wind_speed": 16.2,
+        "temperature": 11.0
+    },
+    {
+        "date": "2025-05-22",
+        "humidity": 80,
+        "wind_speed": 20.9,
+        "temperature": 12.1
+    },
+    {
+        "date": "2025-05-21",
+        "humidity": 82,
+        "wind_speed": 24.2,
+        "temperature": 12.9
+    },
+    {
+        "date": "2025-05-20",
+        "humidity": 89,
+        "wind_speed": 21.3,
+        "temperature": 13.2
+    },
+    {
+        "date": "2025-05-19",
+        "humidity": 85,
+        "wind_speed": 18.0,
+        "temperature": 14.6
+    },
+    {
+        "date": "2025-05-18",
+        "humidity": 68,
+        "wind_speed": 18.4,
+        "temperature": 14.1
+    },
+    {
+        "date": "2025-05-17",
+        "humidity": 63,
+        "wind_speed": 15.5,
+        "temperature": 12.9
+    },
+    {
+        "date": "2025-05-16",
+        "humidity": 70,
+        "wind_speed": 24.5,
+        "temperature": 13.3
+    },
+    {
+        "date": "2025-05-15",
+        "humidity": 72,
+        "wind_speed": 30.6,
+        "temperature": 13.0
+    },
+    {
+        "date": "2025-05-14",
+        "humidity": 81,
+        "wind_speed": 19.4,
+        "temperature": 13.8
+    },
+    {
+        "date": "2025-05-13",
+        "humidity": 62,
+        "wind_speed": 21.2,
+        "temperature": 12.4
+    },
+    {
+        "date": "2025-05-12",
+        "humidity": 61,
+        "wind_speed": 12.2,
+        "temperature": 10.7
+    },
+    {
+        "date": "2025-05-11",
+        "humidity": 73,
+        "wind_speed": 23.0,
+        "temperature": 9.7
+    },
+    {
+        "date": "2025-05-10",
+        "humidity": 70,
+        "wind_speed": 18.4,
+        "temperature": 9.3
+    },
+    {
+        "date": "2025-05-09",
+        "humidity": 93,
+        "wind_speed": 14.0,
+        "temperature": 9.1
+    },
+    {
+        "date": "2025-05-08",
+        "humidity": 62,
+        "wind_speed": 13.3,
+        "temperature": 11.0
+    },
+    {
+        "date": "2025-05-07",
+        "humidity": 64,
+        "wind_speed": 10.4,
+        "temperature": 8.6
+    },
+    {
+        "date": "2025-05-06",
+        "humidity": 73,
+        "wind_speed": 24.1,
+        "temperature": 11.7
+    },
+    {
+        "date": "2025-05-05",
+        "humidity": 75,
+        "wind_speed": 29.9,
+        "temperature": 14.5
+    },
+    {
+        "date": "2025-05-04",
+        "humidity": 80,
+        "wind_speed": 22.0,
+        "temperature": 8.9
+    },
+    {
+        "date": "2025-05-03",
+        "humidity": 86,
+        "wind_speed": 20.2,
+        "temperature": 7.3
+    },
+    {
+        "date": "2025-05-02",
+        "humidity": 78,
+        "wind_speed": 24.1,
+        "temperature": 4.1
+    },
+    {
+        "date": "2025-05-01",
+        "humidity": 69,
+        "wind_speed": 20.2,
+        "temperature": 4.0
+    },
+    {
+        "date": "2025-04-30",
+        "humidity": 88,
+        "wind_speed": 32.0,
+        "temperature": 5.6
+    },
+    {
+        "date": "2025-04-29",
+        "humidity": 62,
+        "wind_speed": 28.1,
+        "temperature": 5.2
+    },
+    {
+        "date": "2025-04-28",
+        "humidity": 69,
+        "wind_speed": 28.4,
+        "temperature": 0.5
+    },
+    {
+        "date": "2025-04-27",
+        "humidity": 80,
+        "wind_speed": 19.8,
+        "temperature": 3.9
+    },
+    {
+        "date": "2025-04-26",
+        "humidity": 76,
+        "wind_speed": 16.6,
+        "temperature": 11.2
+    },
+    {
+        "date": "2025-04-25",
+        "humidity": 88,
+        "wind_speed": 19.1,
+        "temperature": 11.4
+    },
+    {
+        "date": "2025-04-24",
+        "humidity": 74,
+        "wind_speed": 21.6,
+        "temperature": 13.7
+    },
+    {
+        "date": "2025-04-23",
+        "humidity": 58,
+        "wind_speed": 19.8,
+        "temperature": 5.9
+    },
+    {
+        "date": "2025-04-22",
+        "humidity": 66,
+        "wind_speed": 29.2,
+        "temperature": 15.1
+    },
+    {
+        "date": "2025-04-21",
+        "humidity": 68,
+        "wind_speed": 15.8,
+        "temperature": 12.6
+    },
+    {
+        "date": "2025-04-20",
+        "humidity": 80,
+        "wind_speed": 24.8,
+        "temperature": 15.0
+    },
+    {
+        "date": "2025-04-19",
+        "humidity": 79,
+        "wind_speed": 18.0,
+        "temperature": 14.2
+    },
+    {
+        "date": "2025-04-18",
+        "humidity": 83,
+        "wind_speed": 14.8,
+        "temperature": 9.7
+    },
+    {
+        "date": "2025-04-17",
+        "humidity": 64,
+        "wind_speed": 15.8,
+        "temperature": 5.9
+    },
+    {
+        "date": "2025-04-16",
+        "humidity": 62,
+        "wind_speed": 30.6,
+        "temperature": 8.8
+    },
+    {
+        "date": "2025-04-15",
+        "humidity": 65,
+        "wind_speed": 25.9,
+        "temperature": 7.6
+    },
+    {
+        "date": "2025-04-14",
+        "humidity": 71,
+        "wind_speed": 19.4,
+        "temperature": 2.8
+    },
+    {
+        "date": "2025-04-13",
+        "humidity": 73,
+        "wind_speed": 22.7,
+        "temperature": 2.1
+    },
+    {
+        "date": "2025-04-12",
+        "humidity": 67,
+        "wind_speed": 32.0,
+        "temperature": 5.0
+    },
+    {
+        "date": "2025-04-11",
+        "humidity": 55,
+        "wind_speed": 15.5,
+        "temperature": 4.1
+    },
+    {
+        "date": "2025-04-10",
+        "humidity": 59,
+        "wind_speed": 16.9,
+        "temperature": 1.9
+    },
+    {
+        "date": "2025-04-09",
+        "humidity": 65,
+        "wind_speed": 27.0,
+        "temperature": 5.5
+    },
+    {
+        "date": "2025-04-08",
+        "humidity": 87,
+        "wind_speed": 19.4,
+        "temperature": 8.0
+    },
+    {
+        "date": "2025-04-07",
+        "humidity": 92,
+        "wind_speed": 21.6,
+        "temperature": 1.5
+    },
+    {
+        "date": "2025-04-06",
+        "humidity": 90,
+        "wind_speed": 17.6,
+        "temperature": 1.7
+    },
+    {
+        "date": "2025-04-05",
+        "humidity": 73,
+        "wind_speed": 20.9,
+        "temperature": 4.1
+    },
+    {
+        "date": "2025-04-04",
+        "humidity": 75,
+        "wind_speed": 28.8,
+        "temperature": 3.2
+    },
+    {
+        "date": "2025-04-03",
+        "humidity": 80,
+        "wind_speed": 20.5,
+        "temperature": 2.5
+    },
+    {
+        "date": "2025-04-02",
+        "humidity": 87,
+        "wind_speed": 12.2,
+        "temperature": 4.4
+    },
+    {
+        "date": "2025-04-01",
+        "humidity": 86,
+        "wind_speed": 7.6,
+        "temperature": 3.6
+    },
+    {
+        "date": "2025-03-31",
+        "humidity": 85,
+        "wind_speed": 3.6,
+        "temperature": 2.5
+    },
+    {
+        "date": "2025-03-30",
+        "humidity": 79,
+        "wind_speed": 6.5,
+        "temperature": 2.4
+    },
+    {
+        "date": "2025-03-29",
+        "humidity": 78,
+        "wind_speed": 6.5,
+        "temperature": 1.2
+    },
+    {
+        "date": "2025-03-28",
+        "humidity": 79,
+        "wind_speed": 10.1,
+        "temperature": 1.3
+    },
+    {
+        "date": "2025-03-27",
+        "humidity": 72,
+        "wind_speed": 17.6,
+        "temperature": 1.8
+    },
+    {
+        "date": "2025-03-26",
+        "humidity": 84,
+        "wind_speed": 20.2,
+        "temperature": 1.8
+    },
+    {
+        "date": "2025-03-25",
+        "humidity": 92,
+        "wind_speed": 15.5,
+        "temperature": -0.1
+    },
+    {
+        "date": "2025-03-24",
+        "humidity": 94,
+        "wind_speed": 11.2,
+        "temperature": 0.2
+    },
+    {
+        "date": "2025-03-23",
+        "humidity": 83,
+        "wind_speed": 24.1,
+        "temperature": -3.1
+    },
+    {
+        "date": "2025-03-22",
+        "humidity": 80,
+        "wind_speed": 19.4,
+        "temperature": -2.4
+    },
+    {
+        "date": "2025-03-21",
+        "humidity": 83,
+        "wind_speed": 19.4,
+        "temperature": -2.6
+    },
+    {
+        "date": "2025-03-20",
+        "humidity": 85,
+        "wind_speed": 20.9,
+        "temperature": -3.6
+    },
+    {
+        "date": "2025-03-19",
+        "humidity": 84,
+        "wind_speed": 16.6,
+        "temperature": -5.0
+    },
+    {
+        "date": "2025-03-18",
+        "humidity": 89,
+        "wind_speed": 11.9,
+        "temperature": -4.4
+    },
+    {
+        "date": "2025-03-17",
+        "humidity": 90,
+        "wind_speed": 14.0,
+        "temperature": -1.5
+    },
+    {
+        "date": "2025-03-16",
+        "humidity": 93,
+        "wind_speed": 16.2,
+        "temperature": -2.1
+    },
+    {
+        "date": "2025-03-15",
+        "humidity": 98,
+        "wind_speed": 25.9,
+        "temperature": 1.9
+    },
+    {
+        "date": "2025-03-14",
+        "humidity": 100,
+        "wind_speed": 24.1,
+        "temperature": 1.7
+    },
+    {
+        "date": "2025-03-13",
+        "humidity": 100,
+        "wind_speed": 14.8,
+        "temperature": 1.1
+    },
+    {
+        "date": "2025-03-12",
+        "humidity": 96,
+        "wind_speed": 21.6,
+        "temperature": 0.3
+    },
+    {
+        "date": "2025-03-11",
+        "humidity": 95,
+        "wind_speed": 21.6,
+        "temperature": -5.3
+    },
+    {
+        "date": "2025-03-10",
+        "humidity": 93,
+        "wind_speed": 19.8,
+        "temperature": -2.3
+    },
+    {
+        "date": "2025-03-09",
+        "humidity": 96,
+        "wind_speed": 26.3,
+        "temperature": -2.7
+    },
+    {
+        "date": "2025-03-08",
+        "humidity": 95,
+        "wind_speed": 12.6,
+        "temperature": -4.4
+    },
+    {
+        "date": "2025-03-07",
+        "humidity": 94,
+        "wind_speed": 7.6,
+        "temperature": -3.8
+    },
+    {
+        "date": "2025-03-06",
+        "humidity": 95,
+        "wind_speed": 9.4,
+        "temperature": -5.7
+    },
+    {
+        "date": "2025-03-05",
+        "humidity": 95,
+        "wind_speed": 21.2,
+        "temperature": -5.0
+    },
+    {
+        "date": "2025-03-04",
+        "humidity": 95,
+        "wind_speed": 19.4,
+        "temperature": -6.5
+    },
+    {
+        "date": "2025-03-03",
+        "humidity": 94,
+        "wind_speed": 15.5,
+        "temperature": -5.1
+    },
+    {
+        "date": "2025-03-02",
+        "humidity": 93,
+        "wind_speed": 16.2,
+        "temperature": -5.8
+    },
+    {
+        "date": "2025-03-01",
+        "humidity": 95,
+        "wind_speed": 11.5,
+        "temperature": -5.9
+    },
+    {
+        "date": "2025-02-28",
+        "humidity": 93,
+        "wind_speed": 11.2,
+        "temperature": -9.8
+    },
+    {
+        "date": "2025-02-27",
+        "humidity": 94,
+        "wind_speed": 16.2,
+        "temperature": -7.1
+    },
+    {
+        "date": "2025-02-26",
+        "humidity": 96,
+        "wind_speed": 12.6,
+        "temperature": -7.6
+    },
+    {
+        "date": "2025-02-25",
+        "humidity": 92,
+        "wind_speed": 8.3,
+        "temperature": -8.6
+    },
+    {
+        "date": "2025-02-24",
+        "humidity": 93,
+        "wind_speed": 16.6,
+        "temperature": -10.2
+    },
+    {
+        "date": "2025-02-23",
+        "humidity": 89,
+        "wind_speed": 21.2,
+        "temperature": -11.5
+    },
+    {
+        "date": "2025-02-22",
+        "humidity": 97,
+        "wind_speed": 11.7,
+        "temperature": -17.1
+    },
+    {
+        "date": "2025-02-21",
+        "humidity": 97,
+        "wind_speed": 6.1,
+        "temperature": -15.2
+    },
+    {
+        "date": "2025-02-20",
+        "humidity": 97,
+        "wind_speed": 8.6,
+        "temperature": -14.3
+    },
+    {
+        "date": "2025-02-19",
+        "humidity": 95,
+        "wind_speed": 15.5,
+        "temperature": -16.3
+    },
+    {
+        "date": "2025-02-18",
+        "humidity": 95,
+        "wind_speed": 17.3,
+        "temperature": -15.8
+    },
+    {
+        "date": "2025-02-17",
+        "humidity": 93,
+        "wind_speed": 19.4,
+        "temperature": -14.9
+    },
+    {
+        "date": "2025-02-16",
+        "humidity": 95,
+        "wind_speed": 19.8,
+        "temperature": -7.4
+    },
+    {
+        "date": "2025-02-15",
+        "humidity": 95,
+        "wind_speed": 19.1,
+        "temperature": -10.7
+    },
+    {
+        "date": "2025-02-14",
+        "humidity": 95,
+        "wind_speed": 14.8,
+        "temperature": -8.6
+    },
+    {
+        "date": "2025-02-13",
+        "humidity": 94,
+        "wind_speed": 18.0,
+        "temperature": -5.5
+    },
+    {
+        "date": "2025-02-12",
+        "humidity": 94,
+        "wind_speed": 20.2,
+        "temperature": -8.6
+    },
+    {
+        "date": "2025-02-11",
+        "humidity": 95,
+        "wind_speed": 14.0,
+        "temperature": -8.6
+    },
+    {
+        "date": "2025-02-10",
+        "humidity": 97,
+        "wind_speed": 13.7,
+        "temperature": -7.2
+    },
+    {
+        "date": "2025-02-09",
+        "humidity": 95,
+        "wind_speed": 9.4,
+        "temperature": -5.6
+    },
+    {
+        "date": "2025-02-08",
+        "humidity": 97,
+        "wind_speed": 10.1,
+        "temperature": -9.9
+    },
+    {
+        "date": "2025-02-07",
+        "humidity": 95,
+        "wind_speed": 7.2,
+        "temperature": -14.6
+    },
+    {
+        "date": "2025-02-06",
+        "humidity": 94,
+        "wind_speed": 5.8,
+        "temperature": -9.9
+    },
+    {
+        "date": "2025-02-05",
+        "humidity": 95,
+        "wind_speed": 11.5,
+        "temperature": -6.5
+    },
+    {
+        "date": "2025-02-04",
+        "humidity": 95,
+        "wind_speed": 17.3,
+        "temperature": -3.5
+    },
+    {
+        "date": "2025-02-03",
+        "humidity": 95,
+        "wind_speed": 18.0,
+        "temperature": -2.2
+    },
+    {
+        "date": "2025-02-02",
+        "humidity": 94,
+        "wind_speed": 18.7,
+        "temperature": -0.5
+    },
+    {
+        "date": "2025-02-01",
+        "humidity": 96,
+        "wind_speed": 16.2,
+        "temperature": 0.2
+    },
+    {
+        "date": "2025-01-31",
+        "humidity": 99,
+        "wind_speed": 15.5,
+        "temperature": -0.5
+    },
+    {
+        "date": "2025-01-30",
+        "humidity": 99,
+        "wind_speed": 11.2,
+        "temperature": -0.5
+    },
+    {
+        "date": "2025-01-29",
+        "humidity": 96,
+        "wind_speed": 17.6,
+        "temperature": -0.7
+    },
+    {
+        "date": "2025-01-28",
+        "humidity": 99,
+        "wind_speed": 20.9,
+        "temperature": 0.6
+    },
+    {
+        "date": "2025-01-27",
+        "humidity": 97,
+        "wind_speed": 19.4,
+        "temperature": -3.6
+    },
+    {
+        "date": "2025-01-26",
+        "humidity": 97,
+        "wind_speed": 13.0,
+        "temperature": -17.2
+    },
+    {
+        "date": "2025-01-25",
+        "humidity": 98,
+        "wind_speed": 11.2,
+        "temperature": -17.9
+    },
+    {
+        "date": "2025-01-24",
+        "humidity": 93,
+        "wind_speed": 24.8,
+        "temperature": -11.4
+    },
+    {
+        "date": "2025-01-23",
+        "humidity": 85,
+        "wind_speed": 30.2,
+        "temperature": -14.6
+    },
+    {
+        "date": "2025-01-22",
+        "humidity": 90,
+        "wind_speed": 25.2,
+        "temperature": -20.6
+    },
+    {
+        "date": "2025-01-21",
+        "humidity": 87,
+        "wind_speed": 28.1,
+        "temperature": -11.1
+    },
+    {
+        "date": "2025-01-20",
+        "humidity": 92,
+        "wind_speed": 22.0,
+        "temperature": -4.2
+    },
+    {
+        "date": "2025-01-19",
+        "humidity": 96,
+        "wind_speed": 16.9,
+        "temperature": -3.3
+    },
+    {
+        "date": "2025-01-18",
+        "humidity": 97,
+        "wind_speed": 15.8,
+        "temperature": -10.7
+    },
+    {
+        "date": "2025-01-17",
+        "humidity": 95,
+        "wind_speed": 15.8,
+        "temperature": -12.1
+    },
+    {
+        "date": "2025-01-16",
+        "humidity": 95,
+        "wind_speed": 20.2,
+        "temperature": -11.3
+    },
+    {
+        "date": "2025-01-15",
+        "humidity": 95,
+        "wind_speed": 20.9,
+        "temperature": -5.1
+    },
+    {
+        "date": "2025-01-14",
+        "humidity": 92,
+        "wind_speed": 22.0,
+        "temperature": -4.9
+    },
+    {
+        "date": "2025-01-13",
+        "humidity": 93,
+        "wind_speed": 13.0,
+        "temperature": -7.9
+    },
+    {
+        "date": "2025-01-12",
+        "humidity": 91,
+        "wind_speed": 12.6,
+        "temperature": -6.4
+    },
+    {
+        "date": "2025-01-11",
+        "humidity": 96,
+        "wind_speed": 15.5,
+        "temperature": -1.4
+    },
+    {
+        "date": "2025-01-10",
+        "humidity": 91,
+        "wind_speed": 23.8,
+        "temperature": -2.7
+    },
+    {
+        "date": "2025-01-09",
+        "humidity": 97,
+        "wind_speed": 25.9,
+        "temperature": 0.1
+    },
+    {
+        "date": "2025-01-08",
+        "humidity": 95,
+        "wind_speed": 22.7,
+        "temperature": -4.2
+    },
+    {
+        "date": "2025-01-07",
+        "humidity": 97,
+        "wind_speed": 17.3,
+        "temperature": -13.2
+    },
+    {
+        "date": "2025-01-06",
+        "humidity": 96,
+        "wind_speed": 17.3,
+        "temperature": -9.1
+    },
+    {
+        "date": "2025-01-05",
+        "humidity": 94,
+        "wind_speed": 18.7,
+        "temperature": -4.9
+    },
+    {
+        "date": "2025-01-04",
+        "humidity": 97,
+        "wind_speed": 25.6,
+        "temperature": -3.8
+    },
+    {
+        "date": "2025-01-03",
+        "humidity": 95,
+        "wind_speed": 27.4,
+        "temperature": 0.4
+    },
+    {
+        "date": "2025-01-02",
+        "humidity": 96,
+        "wind_speed": 28.1,
+        "temperature": -4.2
+    },
+    {
+        "date": "2025-01-01",
+        "humidity": 94,
+        "wind_speed": 19.8,
+        "temperature": -6.1
+    },
+    {
+        "date": "2024-12-31",
+        "humidity": 94,
+        "wind_speed": 29.9,
+        "temperature": -3.8
+    },
+    {
+        "date": "2024-12-30",
+        "humidity": 93,
+        "wind_speed": 25.2,
+        "temperature": -7.9
+    },
+    {
+        "date": "2024-12-29",
+        "humidity": 96,
+        "wind_speed": 11.9,
+        "temperature": -5.7
+    },
+    {
+        "date": "2024-12-28",
+        "humidity": 96,
+        "wind_speed": 15.5,
+        "temperature": -6.1
+    },
+    {
+        "date": "2024-12-27",
+        "humidity": 94,
+        "wind_speed": 25.6,
+        "temperature": -1.5
+    },
+    {
+        "date": "2024-12-26",
+        "humidity": 97,
+        "wind_speed": 18.0,
+        "temperature": -12.9
+    },
+    {
+        "date": "2024-12-25",
+        "humidity": 96,
+        "wind_speed": 5.8,
+        "temperature": -14.8
+    },
+    {
+        "date": "2024-12-24",
+        "humidity": 93,
+        "wind_speed": 7.2,
+        "temperature": -13.4
+    },
+    {
+        "date": "2024-12-23",
+        "humidity": 95,
+        "wind_speed": 13.0,
+        "temperature": -2.8
+    },
+    {
+        "date": "2024-12-22",
+        "humidity": 96,
+        "wind_speed": 18.7,
+        "temperature": -2.0
+    },
+    {
+        "date": "2024-12-21",
+        "humidity": 96,
+        "wind_speed": 24.5,
+        "temperature": -3.0
+    },
+    {
+        "date": "2024-12-20",
+        "humidity": 97,
+        "wind_speed": 19.4,
+        "temperature": -13.7
+    },
+    {
+        "date": "2024-12-19",
+        "humidity": 99,
+        "wind_speed": 5.0,
+        "temperature": -10.7
+    },
+    {
+        "date": "2024-12-18",
+        "humidity": 95,
+        "wind_speed": 22.0,
+        "temperature": -5.1
+    },
+    {
+        "date": "2024-12-17",
+        "humidity": 94,
+        "wind_speed": 24.1,
+        "temperature": -4.5
+    },
+    {
+        "date": "2024-12-16",
+        "humidity": 95,
+        "wind_speed": 27.0,
+        "temperature": -5.3
+    },
+    {
+        "date": "2024-12-15",
+        "humidity": 95,
+        "wind_speed": 15.8,
+        "temperature": -14.0
+    },
+    {
+        "date": "2024-12-14",
+        "humidity": 90,
+        "wind_speed": 20.5,
+        "temperature": -11.6
+    },
+    {
+        "date": "2024-12-13",
+        "humidity": 95,
+        "wind_speed": 18.7,
+        "temperature": -5.4
+    },
+    {
+        "date": "2024-12-12",
+        "humidity": 94,
+        "wind_speed": 24.1,
+        "temperature": -3.7
+    },
+    {
+        "date": "2024-12-11",
+        "humidity": 92,
+        "wind_speed": 27.4,
+        "temperature": -3.2
+    },
+    {
+        "date": "2024-12-10",
+        "humidity": 91,
+        "wind_speed": 19.1,
+        "temperature": -3.7
+    },
+    {
+        "date": "2024-12-09",
+        "humidity": 80,
+        "wind_speed": 19.1,
+        "temperature": -5.2
+    },
+    {
+        "date": "2024-12-08",
+        "humidity": 74,
+        "wind_speed": 14.4,
+        "temperature": -7.9
+    },
+    {
+        "date": "2024-12-07",
+        "humidity": 73,
+        "wind_speed": 7.9,
+        "temperature": -7.9
+    },
+    {
+        "date": "2024-12-06",
+        "humidity": 81,
+        "wind_speed": 11.2,
+        "temperature": -6.6
+    },
+    {
+        "date": "2024-12-05",
+        "humidity": 82,
+        "wind_speed": 18.7,
+        "temperature": -4.3
+    },
+    {
+        "date": "2024-12-04",
+        "humidity": 86,
+        "wind_speed": 21.2,
+        "temperature": -0.8
+    },
+    {
+        "date": "2024-12-03",
+        "humidity": 93,
+        "wind_speed": 17.6,
+        "temperature": 0.6
+    },
+    {
+        "date": "2024-12-02",
+        "humidity": 97,
+        "wind_speed": 16.6,
+        "temperature": -0.3
+    },
+    {
+        "date": "2024-12-01",
+        "humidity": 88,
+        "wind_speed": 18.0,
+        "temperature": -1.0
+    },
+    {
+        "date": "2024-11-30",
+        "humidity": 87,
+        "wind_speed": 21.6,
+        "temperature": -0.8
+    },
+    {
+        "date": "2024-11-29",
+        "humidity": 69,
+        "wind_speed": 13.9,
+        "temperature": -3.4
+    },
+    {
+        "date": "2024-11-28",
+        "humidity": 67,
+        "wind_speed": 7.2,
+        "temperature": -3.5
+    },
+    {
+        "date": "2024-11-27",
+        "humidity": 88,
+        "wind_speed": 4.0,
+        "temperature": -5.1
+    },
+    {
+        "date": "2024-11-26",
+        "humidity": 79,
+        "wind_speed": 6.1,
+        "temperature": -3.4
+    },
+    {
+        "date": "2024-11-25",
+        "humidity": 82,
+        "wind_speed": 14.4,
+        "temperature": -1.2
+    },
+    {
+        "date": "2024-11-24",
+        "humidity": 64,
+        "wind_speed": 28.8,
+        "temperature": 1.9
+    },
+    {
+        "date": "2024-11-23",
+        "humidity": 90,
+        "wind_speed": 28.4,
+        "temperature": 0.9
+    },
+    {
+        "date": "2024-11-22",
+        "humidity": 85,
+        "wind_speed": 32.0,
+        "temperature": 1.0
+    },
+    {
+        "date": "2024-11-21",
+        "humidity": 89,
+        "wind_speed": 23.4,
+        "temperature": -0.0
+    },
+    {
+        "date": "2024-11-20",
+        "humidity": 95,
+        "wind_speed": 14.8,
+        "temperature": 0.0
+    },
+    {
+        "date": "2024-11-19",
+        "humidity": 89,
+        "wind_speed": 20.5,
+        "temperature": 0.4
+    },
+    {
+        "date": "2024-11-18",
+        "humidity": 93,
+        "wind_speed": 24.5,
+        "temperature": 2.1
+    },
+    {
+        "date": "2024-11-17",
+        "humidity": 93,
+        "wind_speed": 26.6,
+        "temperature": 0.6
+    },
+    {
+        "date": "2024-11-16",
+        "humidity": 90,
+        "wind_speed": 25.6,
+        "temperature": -1.1
+    },
+    {
+        "date": "2024-11-15",
+        "humidity": 90,
+        "wind_speed": 23.0,
+        "temperature": -0.8
+    },
+    {
+        "date": "2024-11-14",
+        "humidity": 92,
+        "wind_speed": 17.6,
+        "temperature": -0.3
+    },
+    {
+        "date": "2024-11-13",
+        "humidity": 90,
+        "wind_speed": 15.8,
+        "temperature": -1.7
+    },
+    {
+        "date": "2024-11-12",
+        "humidity": 90,
+        "wind_speed": 23.8,
+        "temperature": -2.4
+    },
+    {
+        "date": "2024-11-11",
+        "humidity": 84,
+        "wind_speed": 16.2,
+        "temperature": -3.2
+    },
+    {
+        "date": "2024-11-10",
+        "humidity": 80,
+        "wind_speed": 27.7,
+        "temperature": -0.8
+    },
+    {
+        "date": "2024-11-09",
+        "humidity": 93,
+        "wind_speed": 29.9,
+        "temperature": 1.1
+    },
+    {
+        "date": "2024-11-08",
+        "humidity": 90,
+        "wind_speed": 18.0,
+        "temperature": -2.0
+    },
+    {
+        "date": "2024-11-07",
+        "humidity": 82,
+        "wind_speed": 9.0,
+        "temperature": -3.8
+    },
+    {
+        "date": "2024-11-06",
+        "humidity": 74,
+        "wind_speed": 19.1,
+        "temperature": -5.1
+    },
+    {
+        "date": "2024-11-05",
+        "humidity": 85,
+        "wind_speed": 16.9,
+        "temperature": -2.9
+    },
+    {
+        "date": "2024-11-04",
+        "humidity": 86,
+        "wind_speed": 20.2,
+        "temperature": -3.0
+    },
+    {
+        "date": "2024-11-03",
+        "humidity": 83,
+        "wind_speed": 31.0,
+        "temperature": -3.3
+    },
+    {
+        "date": "2024-11-02",
+        "humidity": 89,
+        "wind_speed": 28.4,
+        "temperature": 0.7
+    },
+    {
+        "date": "2024-11-01",
+        "humidity": 92,
+        "wind_speed": 24.1,
+        "temperature": 0.3
+    },
+    {
+        "date": "2024-10-31",
+        "humidity": 86,
+        "wind_speed": 31.7,
+        "temperature": 2.3
+    },
+    {
+        "date": "2024-10-30",
+        "humidity": 73,
+        "wind_speed": 13.0,
+        "temperature": 1.9
+    },
+    {
+        "date": "2024-10-29",
+        "humidity": 71,
+        "wind_speed": 12.2,
+        "temperature": 2.5
+    },
+    {
+        "date": "2024-10-28",
+        "humidity": 67,
+        "wind_speed": 7.9,
+        "temperature": 2.0
+    },
+    {
+        "date": "2024-10-27",
+        "humidity": 77,
+        "wind_speed": 9.0,
+        "temperature": 1.9
+    },
+    {
+        "date": "2024-10-26",
+        "humidity": 91,
+        "wind_speed": 9.4,
+        "temperature": 2.5
+    },
+    {
+        "date": "2024-10-25",
+        "humidity": 77,
+        "wind_speed": 13.0,
+        "temperature": 5.1
+    },
+    {
+        "date": "2024-10-24",
+        "humidity": 89,
+        "wind_speed": 17.6,
+        "temperature": 6.0
+    },
+    {
+        "date": "2024-10-23",
+        "humidity": 84,
+        "wind_speed": 16.9,
+        "temperature": 7.6
+    },
+    {
+        "date": "2024-10-22",
+        "humidity": 80,
+        "wind_speed": 22.3,
+        "temperature": 6.3
+    },
+    {
+        "date": "2024-10-21",
+        "humidity": 75,
+        "wind_speed": 13.0,
+        "temperature": 5.7
+    },
+    {
+        "date": "2024-10-20",
+        "humidity": 72,
+        "wind_speed": 8.6,
+        "temperature": 2.5
+    },
+    {
+        "date": "2024-10-19",
+        "humidity": 71,
+        "wind_speed": 6.1,
+        "temperature": 1.4
+    },
+    {
+        "date": "2024-10-18",
+        "humidity": 78,
+        "wind_speed": 9.4,
+        "temperature": 2.9
+    },
+    {
+        "date": "2024-10-17",
+        "humidity": 88,
+        "wind_speed": 6.5,
+        "temperature": 3.6
+    },
+    {
+        "date": "2024-10-16",
+        "humidity": 41,
+        "wind_speed": 14.8,
+        "temperature": 3.5
+    },
+    {
+        "date": "2024-10-15",
+        "humidity": 46,
+        "wind_speed": 11.2,
+        "temperature": 2.4
+    },
+    {
+        "date": "2024-10-14",
+        "humidity": 48,
+        "wind_speed": 5.8,
+        "temperature": 1.0
+    },
+    {
+        "date": "2024-10-13",
+        "humidity": 53,
+        "wind_speed": 7.6,
+        "temperature": -0.1
+    },
+    {
+        "date": "2024-10-12",
+        "humidity": 65,
+        "wind_speed": 16.2,
+        "temperature": -1.0
+    },
+    {
+        "date": "2024-10-11",
+        "humidity": 61,
+        "wind_speed": 24.5,
+        "temperature": -1.4
+    },
+    {
+        "date": "2024-10-10",
+        "humidity": 78,
+        "wind_speed": 27.0,
+        "temperature": 1.7
+    },
+    {
+        "date": "2024-10-09",
+        "humidity": 75,
+        "wind_speed": 28.8,
+        "temperature": 5.6
+    },
+    {
+        "date": "2024-10-08",
+        "humidity": 61,
+        "wind_speed": 25.2,
+        "temperature": 12.6
+    },
+    {
+        "date": "2024-10-07",
+        "humidity": 66,
+        "wind_speed": 18.7,
+        "temperature": 6.8
+    },
+    {
+        "date": "2024-10-06",
+        "humidity": 61,
+        "wind_speed": 19.1,
+        "temperature": 8.3
+    },
+    {
+        "date": "2024-10-05",
+        "humidity": 53,
+        "wind_speed": 19.4,
+        "temperature": 9.9
+    },
+    {
+        "date": "2024-10-04",
+        "humidity": 43,
+        "wind_speed": 14.0,
+        "temperature": 9.4
+    },
+    {
+        "date": "2024-10-03",
+        "humidity": 43,
+        "wind_speed": 15.1,
+        "temperature": 8.1
+    },
+    {
+        "date": "2024-10-02",
+        "humidity": 46,
+        "wind_speed": 14.8,
+        "temperature": 6.8
+    },
+    {
+        "date": "2024-10-01",
+        "humidity": 51,
+        "wind_speed": 18.0,
+        "temperature": 10.2
+    },
+    {
+        "date": "2024-09-30",
+        "humidity": 39,
+        "wind_speed": 22.3,
+        "temperature": 15.1
+    },
+    {
+        "date": "2024-09-29",
+        "humidity": 28,
+        "wind_speed": 28.1,
+        "temperature": 15.9
+    },
+    {
+        "date": "2024-09-28",
+        "humidity": 33,
+        "wind_speed": 28.8,
+        "temperature": 14.1
+    },
+    {
+        "date": "2024-09-27",
+        "humidity": 40,
+        "wind_speed": 20.9,
+        "temperature": 12.3
+    },
+    {
+        "date": "2024-09-26",
+        "humidity": 48,
+        "wind_speed": 18.0,
+        "temperature": 11.2
+    },
+    {
+        "date": "2024-09-25",
+        "humidity": 53,
+        "wind_speed": 13.3,
+        "temperature": 8.4
+    },
+    {
+        "date": "2024-09-24",
+        "humidity": 51,
+        "wind_speed": 13.7,
+        "temperature": 5.5
+    },
+    {
+        "date": "2024-09-23",
+        "humidity": 55,
+        "wind_speed": 25.9,
+        "temperature": 5.8
+    },
+    {
+        "date": "2024-09-22",
+        "humidity": 59,
+        "wind_speed": 25.9,
+        "temperature": 8.6
+    },
+    {
+        "date": "2024-09-21",
+        "humidity": 72,
+        "wind_speed": 19.1,
+        "temperature": 12.5
+    },
+    {
+        "date": "2024-09-20",
+        "humidity": 86,
+        "wind_speed": 15.1,
+        "temperature": 12.3
+    },
+    {
+        "date": "2024-09-19",
+        "humidity": 70,
+        "wind_speed": 20.5,
+        "temperature": 15.1
+    },
+    {
+        "date": "2024-09-18",
+        "humidity": 66,
+        "wind_speed": 10.1,
+        "temperature": 16.4
+    },
+    {
+        "date": "2024-09-17",
+        "humidity": 67,
+        "wind_speed": 7.2,
+        "temperature": 16.1
+    },
+    {
+        "date": "2024-09-16",
+        "humidity": 67,
+        "wind_speed": 12.2,
+        "temperature": 16.8
+    },
+    {
+        "date": "2024-09-15",
+        "humidity": 74,
+        "wind_speed": 14.4,
+        "temperature": 17.0
+    },
+    {
+        "date": "2024-09-14",
+        "humidity": 64,
+        "wind_speed": 5.8,
+        "temperature": 17.5
+    },
+    {
+        "date": "2024-09-13",
+        "humidity": 65,
+        "wind_speed": 9.0,
+        "temperature": 16.0
+    },
+    {
+        "date": "2024-09-12",
+        "humidity": 74,
+        "wind_speed": 15.8,
+        "temperature": 17.1
+    },
+    {
+        "date": "2024-09-11",
+        "humidity": 70,
+        "wind_speed": 14.0,
+        "temperature": 17.6
+    },
+    {
+        "date": "2024-09-10",
+        "humidity": 61,
+        "wind_speed": 8.6,
+        "temperature": 17.7
+    },
+    {
+        "date": "2024-09-09",
+        "humidity": 56,
+        "wind_speed": 5.4,
+        "temperature": 17.3
+    },
+    {
+        "date": "2024-09-08",
+        "humidity": 68,
+        "wind_speed": 15.5,
+        "temperature": 18.6
+    },
+    {
+        "date": "2024-09-07",
+        "humidity": 74,
+        "wind_speed": 13.3,
+        "temperature": 17.2
+    },
+    {
+        "date": "2024-09-06",
+        "humidity": 66,
+        "wind_speed": 16.6,
+        "temperature": 14.5
+    },
+    {
+        "date": "2024-09-05",
+        "humidity": 61,
+        "wind_speed": 12.6,
+        "temperature": 12.3
+    },
+    {
+        "date": "2024-09-04",
+        "humidity": 65,
+        "wind_speed": 16.6,
+        "temperature": 11.1
+    },
+    {
+        "date": "2024-09-03",
+        "humidity": 71,
+        "wind_speed": 20.5,
+        "temperature": 14.9
+    },
+    {
+        "date": "2024-09-02",
+        "humidity": 60,
+        "wind_speed": 16.9,
+        "temperature": 14.9
+    },
+    {
+        "date": "2024-09-01",
+        "humidity": 54,
+        "wind_speed": 6.5,
+        "temperature": 11.6
+    },
+    {
+        "date": "2024-08-31",
+        "humidity": 65,
+        "wind_speed": 9.4,
+        "temperature": 14.5
+    },
+    {
+        "date": "2024-08-30",
+        "humidity": 63,
+        "wind_speed": 10.1,
+        "temperature": 14.8
+    },
+    {
+        "date": "2024-08-29",
+        "humidity": 71,
+        "wind_speed": 16.2,
+        "temperature": 16.5
+    },
+    {
+        "date": "2024-08-28",
+        "humidity": 70,
+        "wind_speed": 23.0,
+        "temperature": 20.2
+    },
+    {
+        "date": "2024-08-27",
+        "humidity": 63,
+        "wind_speed": 8.6,
+        "temperature": 18.3
+    },
+    {
+        "date": "2024-08-26",
+        "humidity": 64,
+        "wind_speed": 16.9,
+        "temperature": 18.1
+    },
+    {
+        "date": "2024-08-25",
+        "humidity": 68,
+        "wind_speed": 9.4,
+        "temperature": 17.5
+    },
+    {
+        "date": "2024-08-24",
+        "humidity": 64,
+        "wind_speed": 6.6,
+        "temperature": 15.7
+    },
+    {
+        "date": "2024-08-23",
+        "humidity": 68,
+        "wind_speed": 9.7,
+        "temperature": 15.7
+    },
+    {
+        "date": "2024-08-22",
+        "humidity": 74,
+        "wind_speed": 20.2,
+        "temperature": 15.7
+    },
+    {
+        "date": "2024-08-21",
+        "humidity": 79,
+        "wind_speed": 24.1,
+        "temperature": 14.6
+    },
+    {
+        "date": "2024-08-20",
+        "humidity": 79,
+        "wind_speed": 16.2,
+        "temperature": 16.5
+    },
+    {
+        "date": "2024-08-19",
+        "humidity": 84,
+        "wind_speed": 10.4,
+        "temperature": 15.5
+    },
+    {
+        "date": "2024-08-18",
+        "humidity": 90,
+        "wind_speed": 11.5,
+        "temperature": 14.0
+    },
+    {
+        "date": "2024-08-17",
+        "humidity": 89,
+        "wind_speed": 19.4,
+        "temperature": 14.5
+    },
+    {
+        "date": "2024-08-16",
+        "humidity": 96,
+        "wind_speed": 18.0,
+        "temperature": 11.4
+    },
+    {
+        "date": "2024-08-15",
+        "humidity": 86,
+        "wind_speed": 15.8,
+        "temperature": 13.1
+    },
+    {
+        "date": "2024-08-14",
+        "humidity": 91,
+        "wind_speed": 16.9,
+        "temperature": 12.6
+    },
+    {
+        "date": "2024-08-13",
+        "humidity": 85,
+        "wind_speed": 16.6,
+        "temperature": 14.0
+    },
+    {
+        "date": "2024-08-12",
+        "humidity": 89,
+        "wind_speed": 17.3,
+        "temperature": 13.7
+    },
+    {
+        "date": "2024-08-11",
+        "humidity": 76,
+        "wind_speed": 15.8,
+        "temperature": 15.1
+    },
+    {
+        "date": "2024-08-10",
+        "humidity": 81,
+        "wind_speed": 18.4,
+        "temperature": 14.7
+    },
+    {
+        "date": "2024-08-09",
+        "humidity": 69,
+        "wind_speed": 18.0,
+        "temperature": 16.5
+    },
+    {
+        "date": "2024-08-08",
+        "humidity": 89,
+        "wind_speed": 16.2,
+        "temperature": 16.8
+    },
+    {
+        "date": "2024-08-07",
+        "humidity": 83,
+        "wind_speed": 11.2,
+        "temperature": 18.3
+    },
+    {
+        "date": "2024-08-06",
+        "humidity": 80,
+        "wind_speed": 10.1,
+        "temperature": 18.7
+    },
+    {
+        "date": "2024-08-05",
+        "humidity": 78,
+        "wind_speed": 16.6,
+        "temperature": 18.5
+    },
+    {
+        "date": "2024-08-04",
+        "humidity": 73,
+        "wind_speed": 17.6,
+        "temperature": 18.7
+    },
+    {
+        "date": "2024-08-03",
+        "humidity": 83,
+        "wind_speed": 13.7,
+        "temperature": 17.2
+    },
+    {
+        "date": "2024-08-02",
+        "humidity": 83,
+        "wind_speed": 16.6,
+        "temperature": 16.4
+    },
+    {
+        "date": "2024-08-01",
+        "humidity": 82,
+        "wind_speed": 13.7,
+        "temperature": 16.5
+    },
+    {
+        "date": "2024-07-31",
+        "humidity": 86,
+        "wind_speed": 15.1,
+        "temperature": 16.7
+    },
+    {
+        "date": "2024-07-30",
+        "humidity": 78,
+        "wind_speed": 14.8,
+        "temperature": 16.9
+    },
+    {
+        "date": "2024-07-29",
+        "humidity": 76,
+        "wind_speed": 13.7,
+        "temperature": 14.6
+    },
+    {
+        "date": "2024-07-28",
+        "humidity": 80,
+        "wind_speed": 21.2,
+        "temperature": 12.6
+    },
+    {
+        "date": "2024-07-27",
+        "humidity": 58,
+        "wind_speed": 25.9,
+        "temperature": 15.9
+    },
+    {
+        "date": "2024-07-26",
+        "humidity": 64,
+        "wind_speed": 19.8,
+        "temperature": 14.4
+    },
+    {
+        "date": "2024-07-25",
+        "humidity": 77,
+        "wind_speed": 25.2,
+        "temperature": 14.2
+    },
+    {
+        "date": "2024-07-24",
+        "humidity": 68,
+        "wind_speed": 17.6,
+        "temperature": 15.7
+    },
+    {
+        "date": "2024-07-23",
+        "humidity": 60,
+        "wind_speed": 18.4,
+        "temperature": 17.1
+    },
+    {
+        "date": "2024-07-22",
+        "humidity": 63,
+        "wind_speed": 27.4,
+        "temperature": 15.3
+    },
+    {
+        "date": "2024-07-21",
+        "humidity": 84,
+        "wind_speed": 22.0,
+        "temperature": 18.4
+    },
+    {
+        "date": "2024-07-20",
+        "humidity": 73,
+        "wind_speed": 14.0,
+        "temperature": 21.4
+    },
+    {
+        "date": "2024-07-19",
+        "humidity": 66,
+        "wind_speed": 8.3,
+        "temperature": 21.4
+    },
+    {
+        "date": "2024-07-18",
+        "humidity": 82,
+        "wind_speed": 10.1,
+        "temperature": 18.8
+    },
+    {
+        "date": "2024-07-17",
+        "humidity": 58,
+        "wind_speed": 7.9,
+        "temperature": 20.9
+    },
+    {
+        "date": "2024-07-16",
+        "humidity": 58,
+        "wind_speed": 14.0,
+        "temperature": 19.8
+    },
+    {
+        "date": "2024-07-15",
+        "humidity": 61,
+        "wind_speed": 15.5,
+        "temperature": 19.8
+    },
+    {
+        "date": "2024-07-14",
+        "humidity": 55,
+        "wind_speed": 10.8,
+        "temperature": 18.3
+    },
+    {
+        "date": "2024-07-13",
+        "humidity": 64,
+        "wind_speed": 23.8,
+        "temperature": 15.8
+    },
+    {
+        "date": "2024-07-12",
+        "humidity": 59,
+        "wind_speed": 27.4,
+        "temperature": 16.6
+    },
+    {
+        "date": "2024-07-11",
+        "humidity": 70,
+        "wind_speed": 20.9,
+        "temperature": 19.3
+    },
+    {
+        "date": "2024-07-10",
+        "humidity": 61,
+        "wind_speed": 10.1,
+        "temperature": 23.3
+    },
+    {
+        "date": "2024-07-09",
+        "humidity": 68,
+        "wind_speed": 14.8,
+        "temperature": 21.9
+    },
+    {
+        "date": "2024-07-08",
+        "humidity": 68,
+        "wind_speed": 15.8,
+        "temperature": 18.5
+    },
+    {
+        "date": "2024-07-07",
+        "humidity": 71,
+        "wind_speed": 23.0,
+        "temperature": 21.3
+    },
+    {
+        "date": "2024-07-06",
+        "humidity": 69,
+        "wind_speed": 12.6,
+        "temperature": 26.5
+    },
+    {
+        "date": "2024-07-05",
+        "humidity": 63,
+        "wind_speed": 10.4,
+        "temperature": 26.9
+    },
+    {
+        "date": "2024-07-04",
+        "humidity": 68,
+        "wind_speed": 13.3,
+        "temperature": 25.8
+    },
+    {
+        "date": "2024-07-03",
+        "humidity": 67,
+        "wind_speed": 15.8,
+        "temperature": 23.8
+    },
+    {
+        "date": "2024-07-02",
+        "humidity": 56,
+        "wind_speed": 10.4,
+        "temperature": 21.7
+    },
+    {
+        "date": "2024-07-01",
+        "humidity": 67,
+        "wind_speed": 20.5,
+        "temperature": 20.8
+    },
+    {
+        "date": "2024-06-30",
+        "humidity": 61,
+        "wind_speed": 15.8,
+        "temperature": 17.6
+    },
+    {
+        "date": "2024-06-29",
+        "humidity": 57,
+        "wind_speed": 27.4,
+        "temperature": 14.9
+    },
+    {
+        "date": "2024-06-28",
+        "humidity": 69,
+        "wind_speed": 24.8,
+        "temperature": 15.5
+    },
+    {
+        "date": "2024-06-27",
+        "humidity": 85,
+        "wind_speed": 11.9,
+        "temperature": 12.7
+    },
+    {
+        "date": "2024-06-26",
+        "humidity": 76,
+        "wind_speed": 14.4,
+        "temperature": 12.9
+    },
+    {
+        "date": "2024-06-25",
+        "humidity": 65,
+        "wind_speed": 23.8,
+        "temperature": 12.0
+    },
+    {
+        "date": "2024-06-24",
+        "humidity": 65,
+        "wind_speed": 24.8,
+        "temperature": 13.5
+    },
+    {
+        "date": "2024-06-23",
+        "humidity": 88,
+        "wind_speed": 23.4,
+        "temperature": 15.5
+    },
+    {
+        "date": "2024-06-22",
+        "humidity": 67,
+        "wind_speed": 13.7,
+        "temperature": 18.2
+    },
+    {
+        "date": "2024-06-21",
+        "humidity": 78,
+        "wind_speed": 20.5,
+        "temperature": 21.1
+    },
+    {
+        "date": "2024-06-20",
+        "humidity": 78,
+        "wind_speed": 25.6,
+        "temperature": 19.7
+    },
+    {
+        "date": "2024-06-19",
+        "humidity": 85,
+        "wind_speed": 23.4,
+        "temperature": 21.3
+    },
+    {
+        "date": "2024-06-18",
+        "humidity": 74,
+        "wind_speed": 18.4,
+        "temperature": 21.7
+    },
+    {
+        "date": "2024-06-17",
+        "humidity": 66,
+        "wind_speed": 14.0,
+        "temperature": 19.6
+    },
+    {
+        "date": "2024-06-16",
+        "humidity": 68,
+        "wind_speed": 11.5,
+        "temperature": 21.3
+    },
+    {
+        "date": "2024-06-15",
+        "humidity": 81,
+        "wind_speed": 16.6,
+        "temperature": 23.0
+    },
+    {
+        "date": "2024-06-14",
+        "humidity": 71,
+        "wind_speed": 20.9,
+        "temperature": 24.5
+    },
+    {
+        "date": "2024-06-13",
+        "humidity": 70,
+        "wind_speed": 19.1,
+        "temperature": 24.7
+    },
+    {
+        "date": "2024-06-12",
+        "humidity": 68,
+        "wind_speed": 22.0,
+        "temperature": 24.2
+    },
+    {
+        "date": "2024-06-11",
+        "humidity": 69,
+        "wind_speed": 21.2,
+        "temperature": 21.3
+    },
+    {
+        "date": "2024-06-10",
+        "humidity": 70,
+        "wind_speed": 17.3,
+        "temperature": 18.4
+    },
+    {
+        "date": "2024-06-09",
+        "humidity": 72,
+        "wind_speed": 7.2,
+        "temperature": 17.2
+    },
+    {
+        "date": "2024-06-08",
+        "humidity": 81,
+        "wind_speed": 17.6,
+        "temperature": 16.0
+    },
+    {
+        "date": "2024-06-07",
+        "humidity": 84,
+        "wind_speed": 16.9,
+        "temperature": 18.0
+    },
+    {
+        "date": "2024-06-06",
+        "humidity": 77,
+        "wind_speed": 15.8,
+        "temperature": 19.3
+    },
+    {
+        "date": "2024-06-05",
+        "humidity": 82,
+        "wind_speed": 21.6,
+        "temperature": 19.1
+    },
+    {
+        "date": "2024-06-04",
+        "humidity": 82,
+        "wind_speed": 15.8,
+        "temperature": 20.8
+    },
+    {
+        "date": "2024-06-03",
+        "humidity": 64,
+        "wind_speed": 12.6,
+        "temperature": 20.7
+    },
+    {
+        "date": "2024-06-02",
+        "humidity": 53,
+        "wind_speed": 8.3,
+        "temperature": 17.7
+    },
+    {
+        "date": "2024-06-01",
+        "humidity": 62,
+        "wind_speed": 12.6,
+        "temperature": 17.3
+    },
+    {
+        "date": "2024-05-31",
+        "humidity": 68,
+        "wind_speed": 10.4,
+        "temperature": 9.9
+    },
+    {
+        "date": "2024-05-30",
+        "humidity": 62,
+        "wind_speed": 13.7,
+        "temperature": 10.7
+    },
+    {
+        "date": "2024-05-29",
+        "humidity": 82,
+        "wind_speed": 19.8,
+        "temperature": 14.0
+    },
+    {
+        "date": "2024-05-28",
+        "humidity": 61,
+        "wind_speed": 28.1,
+        "temperature": 15.1
+    }
+]

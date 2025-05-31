@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #292b2f;
+    color: white;
+}
+
+header {
+    background-color: #3366cc;
+    width: 100%;
+    margin-bottom: 3rem;
+    padding: 1rem;
+    padding-left: 10rem;
+    padding-right: 10rem;
+    box-sizing: border-box;
+}
+
+table {
+    text-align: center;
+    margin: auto;
+    border-color: white;
+}
+
+img {
+    pointer-events: none;
+}
+
+h1, h2 {
+    font-weight: normal;
+}
+
+p {
+    color: rgb(191, 191, 191);
+    line-height: 1.6;
+}
+
+a {
+    color: #376edc;            
+    text-decoration: none;  
+    font-weight: bold;      
+}
+
+a:hover {
+    color: rgb(226, 147, 0);            
+}
+
+a:visited {
+    color: #376edc;          
+}
+
+a:active {
+    color: green;           
+}
+
+.container {
+    margin: auto;
+    width: 50%;
+}
+.container ul {
+    list-style-position: inside; /* Точка внутри контейнера */
+    padding-left: 0;             /* Убираем стандартный отступ */
+    margin-left: 0;              /* Убираем отступ браузера */
+}
+
+.container ol {
+    list-style-position: inside; 
+    padding-left: 0;            
+    margin-left: 0;   
+}

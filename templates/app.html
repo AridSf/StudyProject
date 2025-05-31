@@ -1,0 +1,22 @@
+{% include "header.html" %}
+
+<div class="container">
+
+    <h2>Получить прогноз средней температуры на следующие 7 дней</h1>
+    <form action="/forecast" method="post" style="margin-bottom: 1rem; margin-top: 1rem">
+        <h3>Получить прогноз на 7 дней</h3>
+        <button type="submit"> Получить </button>
+    </form>
+    
+    {% if forecast %}
+    <h2>Прогноз:</h2>
+    <ul>
+        {% for temp in forecast %}
+        <li>Средняя температура на {{loop.index}} день: {{ temp }}</li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+
+</div>
+
+{% include "footer.html" %}
