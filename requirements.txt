@@ -8,5 +8,5 @@ pandas
 torch
 scikit-learn
 joblib
-
+gunicorn
 # pip install -r requirements.txt
